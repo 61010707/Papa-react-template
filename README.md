@@ -6,7 +6,7 @@
   <a href="https://github.com/othneildrew/Best-README-Template">
   </a>
 
-  <h3 align="center">Papa - React template</h3>
+  <h2 align="center">Papa - React template</h3>
 
   <p align="center">
     An smallest React template build for my awesome projects
