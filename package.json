@@ -7,7 +7,11 @@
   "author": "DrZin <61010707@kmitl.ac.th>",
   "license": "MIT",
   "scripts": {
-    "start": "parcel ./public/index.html"
+    "start": "parcel ./public/index.html",
+    "build": "parcel build ./public/index.html",
+    "test": "jest",
+    "test:watch": "jest --watchAll",
+    "test:coverage": "jest --coverage --colors"
   },
   "dependencies": {
     "react": "^16.8.6",
@@ -27,5 +31,10 @@
     "parcel-bundler": "^1.12.3",
     "webpack": "^4.35.0",
     "webpack-cli": "^3.3.5"
+  },
+  "jest": {
+    "setupFilesAfterEnv": [
+      "./__test__/setup/setupTests.js"
+    ]
   }
 }
