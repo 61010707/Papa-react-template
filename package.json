@@ -9,7 +9,7 @@
   "scripts": {
     "start": "parcel ./public/index.html",
     "build": "parcel build ./public/index.html",
-    "test": "jest",
+    "test": "CI=true jest",
     "test:watch": "jest --watchAll",
     "test:coverage": "jest --coverage --colors"
   },
