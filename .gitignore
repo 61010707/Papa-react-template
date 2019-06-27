@@ -3,3 +3,7 @@
 /.cache
 /dist
 /.netlify
+.cache
+.netlify
+coverage
+dist
