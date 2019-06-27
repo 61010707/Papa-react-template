@@ -4,6 +4,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="https://github.com/othneildrew/Best-README-Template/blob/master/logo.png" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center">Papa - React template</h3>
 
