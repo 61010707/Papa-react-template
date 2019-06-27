@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "https://github.com/61010707/Papa-react-template.git",
   "author": "DrZin <61010707@kmitl.ac.th>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
 }
