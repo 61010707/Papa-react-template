@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/61010707/Papa-react-template.git",
-  "homepage": "https://61010707.github.io/Papa-react-template/",
   "author": "DrZin <61010707@kmitl.ac.th>",
   "license": "MIT",
   "scripts": {
@@ -26,7 +25,6 @@
     "babel-preset-react": "^6.24.1",
     "enzyme": "^3.10.0",
     "enzyme-adapter-react-16": "^1.14.0",
-    "gh-pages": "^2.0.1",
     "jest": "^24.8.0",
     "node-sass": "^4.12.0",
     "parcel-bundler": "^1.12.3",
